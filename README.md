@@ -12,3 +12,5 @@ Os principais tópicos abordados no evento incluem:
 - **Análise de Dados com Gráficos**: Uso de bibliotecas como `pandas`, para explorar e visualizar dados.
 - **Inteligência Artificial em Python**: Introdução a modelos de IA com ferramentas como `scikit-learn`.
 - **Desenvolvimento de Site e Chat Público**: Criação de aplicações web e chats usando frameworks como `Flet`.
+
+  PS: Análise de Dados esta em um arquivo .ZIP
